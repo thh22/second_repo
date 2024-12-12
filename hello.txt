@@ -1,3 +1,4 @@
 add some text
 and some more text
 added a third line to push to online repo
+added a fourth line to test R Studio git functionality
