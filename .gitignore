@@ -1,0 +1,10 @@
+# ignore folder called "output"
+output/
+# ignore all PDF files
+*.pdf
+# ignore all csv files
+*.csv
+# ignore the file "sens_info.txt"
+sens_info.txt
+# ignore all Word documents in 'experiment' folder
+experiment/*.docx
